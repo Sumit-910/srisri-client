@@ -1,0 +1,27 @@
+.video{
+    width: 650px;
+    max-width: 95vw;
+    display: flex;
+    justify-content: space-between;
+    padding: 1rem;
+    padding-bottom: 0.5rem;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+
+.yt a{
+    color: #2c4e86;
+}
+
+.hdn, .hdp{
+    background-color: #18436b;
+    color: #fff;
+    width: 195px;
+    max-width: 95vw;
+    font-size: 12px;
+    padding: 5px;
+}
+
+a{
+    text-decoration: none;
+}

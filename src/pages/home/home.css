@@ -1,0 +1,29 @@
+.home{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    margin: 1rem auto;
+    margin-top: 0;
+}
+.homeImage img{
+    width: 100%;
+    height: 330px;
+    object-fit: cover;
+    object-position: center;
+}
+.hometop, .homedown{
+    width: max-content;
+    max-width: 100vw;
+    display: flex;
+    flex-wrap: wrap;
+    margin: 1rem auto;
+    gap: 1rem;
+    justify-content: center;
+    align-items: center;
+}
+.help{
+    border-bottom: 4px solid #b9edea;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}

@@ -1,0 +1,21 @@
+.gst{
+    width: 487px;
+    max-width: 95vw;
+}
+
+.gsttop{
+    padding-bottom: 2rem;
+}
+
+.taxbox, .gstbox{
+    background-color: #b9edea;
+    padding: 1rem;
+    display: flex;
+    flex-wrap: wrap;
+    color: #2c4e86;
+    border-bottom: 3px solid #2ec9c1;
+}
+
+.reg, .gstprac, .gstr, .gstytax{
+    width: 50%;
+}

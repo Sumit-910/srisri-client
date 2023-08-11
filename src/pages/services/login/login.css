@@ -1,0 +1,29 @@
+.loginform{
+    width: 40%;
+    margin: auto;
+}
+
+.loginhead{
+    font-size: 18px;
+    font-weight: 500;
+    margin-bottom: 1rem;
+}
+
+.loginform input{
+    width: 100%;
+}
+
+.username, .password, .phoneno, .aadharno{
+    margin-bottom: 1.5rem;
+    display: flex;
+    flex-direction: column;
+    font-weight: 400;
+}
+
+.loginbtn{
+    background-color: #2c4e86;
+    color: #fff;
+    margin-top: 1rem;
+    padding: 0.2rem 1rem;
+    cursor: pointer;
+}

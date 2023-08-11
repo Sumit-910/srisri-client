@@ -1,0 +1,26 @@
+.helptopics{
+    width: 650px;
+    max-width: 95vw;
+    padding: 1rem;
+    padding-top: 0;
+}
+
+.helpul{
+    background-color: #b9edea;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.eachhelp{
+    margin: 0;
+    padding: 0.3rem 0.4rem;
+    width: 290px;
+    max-width: 95vw;
+    display: flex;
+    flex-wrap: wrap;
+    padding: 1rem 0 1rem 0.8rem;
+}

@@ -1,0 +1,21 @@
+.registerPage{
+    background-color: rgb(237, 234, 234);
+    min-height: 80.2vh;
+    margin-top: 0;
+}
+.headingr{
+    width: 70vw;
+    color: #000;
+    margin: auto;
+    padding-top: 1rem;
+}
+.prevlinks{
+    padding-bottom: 1rem;
+}
+.mainreg{
+    width: 70vw;
+    margin: auto;
+    background-color: #fff;
+    margin-top: 1rem;
+    padding: 2rem;
+}

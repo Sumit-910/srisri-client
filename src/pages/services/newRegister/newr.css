@@ -1,0 +1,25 @@
+.onetwo{
+    width: max-content;
+    max-width: 95vw;
+    margin: auto;
+    gap: 2rem;
+    display: flex;
+}
+.onepart, .twopart{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.one, .two{
+    border-radius: 100%;
+    padding: 0.5rem 1rem;
+    width: fit-content;
+    margin-bottom: 0.2rem;
+}
+.inputfield{
+    margin-bottom: 1.5rem;
+    display: flex;
+    flex-direction: column;
+    font-weight: 400;
+}
